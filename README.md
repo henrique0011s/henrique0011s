@@ -1,43 +1,6 @@
-Pular para o conteúdo principal
-Google Sala de Aula
-Sala de Aula
-DS I4 SESI | 2025/2
-Desenvolvimento de Sistemas
-Início
-Agenda
-Minhas inscrições
-Pendentes
-D
-DS I4 SESI | 2025/2
-Desenvolvimento de Sistemas
-D
-DS 1 SESI_ARI_2024_1
-DS 1 SESI
-Turmas arquivadas
-Configurações
-Atividade: Criando seu primeiro README.md
-Atividade: Criando seu primeiro README.md
-EDUARDO FALABELLA
-•
-13:54
-Atividades em Aula
-•
-100 pontos
-Data de entrega: Hoje
-Aprender a documentar projetos de forma clara e organizada utilizando o arquivo README.md, fundamental em repositórios GitHub e projetos de programação.
+# 👋 Olá! Eu sou Henrique Soares Nunes 
 
-Personalize o seu github e poste aqui o link.
-
-modelo.txt
-Texto
-Comentários da turma
-Seus trabalhos
-Atribuído
-Comentários particulares
-Detalhes da atividade
-# 👋 Olá! Eu sou [Seu Nome Aqui]
-
-Sou estudante de **Desenvolvimento de Sistemas** e estou aprendendo sobre **GitHub**, **programação** e **criação de projetos web e mobile**. Tenho interesse especial em [escreva seu interesse aqui: ex. Front-End, Back-End, Mobile, Banco de Dados, UX/UI, etc.].
+Sou estudante de **Desenvolvimento de Sistemas** e estou aprendendo sobre **GitHub**, **programação** e **criação de projetos web e mobile**. Tenho interesse especial em Back-End e desenvolvimento de IA.
 
 ---
 
@@ -79,11 +42,13 @@ Sou estudante de **Desenvolvimento de Sistemas** e estou aprendendo sobre **GitH
 
 ## 💡 Sobre Mim
 
-- 🎓 Atualmente estudo no **[Nome da sua escola]**
-- 💻 Estou aprendendo **[tecnologias que está aprendendo]**
-- 🎯 Meu objetivo é **[coloque seu objetivo, exemplo: ser desenvolvedor Full Stack]**
-- 📚 Gosto de aprender sobre **[áreas de interesse]**
-- ✝ [Se quiser, coloque uma frase ou versículo que te inspire]
+- 🎓 Atualmente estudo no **Sesi/Senai**
+- 💻 Estou aprendendo **Java, Django, Boostrap**
+- 🎯 Meu objetivo é **Ser desenvolvedor de Back-end**
+- 📚 Gosto de aprender sobre **Bnaco de Dados**
+- ✝ ¹¹ Quando eu era menino, falava como menino, sentia como menino, pensava como menino, mas, logo que cheguei a ser homem, acabei com as coisas de menino 
+
+1 Coríntios 13:11
 
 ---
 
